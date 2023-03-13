@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { ThemeContext } from "../../App";
-import Button from "../Button/Button";
+// import Button from "../Button/Button";
 import styles from "./FavoriteCard.module.css";
 
 const FavoriteCard = ({ image, title, removeFromFavorites }) => {

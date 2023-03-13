@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { ThemeContext } from "../../App";
-import Button from "../Button/Button";
+// import Button from "../Button/Button";
 import styles from "./RecipeCard.module.css";
 
 const RecipeCard = ({ image, title, addToFavorites }) => {
