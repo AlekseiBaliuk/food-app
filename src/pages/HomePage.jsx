@@ -78,9 +78,8 @@ const HomePage = () => {
   };
 
   useEffect(() => {
-    const getFavoritesFromStorage = JSON.parse(
-      localStorage.getItem("favorites") || []
-    );
+    const getFavoritesFromStorage =
+      JSON.parse(localStorage.getItem("favorites")) || [];
     if (getFavoritesFromStorage) {
       setFavorites(getFavoritesFromStorage);
       setVisibleFavorites(getFavoritesFromStorage);
