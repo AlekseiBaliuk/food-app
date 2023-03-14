@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlekseiBaliuk/.github.io/food-app/static/css/main.79c735bd.css",
+    "main.js": "/AlekseiBaliuk/.github.io/food-app/static/js/main.2f85859f.js",
+    "index.html": "/AlekseiBaliuk/.github.io/food-app/index.html",
+    "main.79c735bd.css.map": "/AlekseiBaliuk/.github.io/food-app/static/css/main.79c735bd.css.map",
+    "main.2f85859f.js.map": "/AlekseiBaliuk/.github.io/food-app/static/js/main.2f85859f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79c735bd.css",
+    "static/js/main.2f85859f.js"
+  ]
+}
